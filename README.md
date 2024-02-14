@@ -26,12 +26,12 @@ For details on contributing to the CI/CD setup, please refer to the `.gitlab-ci.
 1. Open a command-line terminal and clone the repository:
 
     ```bash
-    git clone https://dvcs.apice.unibo.it/pika-lab/courses/ds/projects/sd-project-luzi-2021.git
+    git clone https://github.com/luzzo98/The-Game.git
 
 2. Navigate to the project directory:
 
     ```bash
-    cd sd-project-luzi-2021
+    cd The-Game
 
 3. Build the project using the Gradle Wrapper and wait for the download of the dependencies and the compilation of the source code (it may take a few minutes):
 
